@@ -242,6 +242,8 @@ general:
         [ 'scripts/AlignGraph',				'production_bin' ],
         [ 'scripts/send_mail_with_content.sh',		'production_bin' ],
         [ 'scripts/bam2bigwig_and_bedgraph',		'production_bin' ],
+        [ 'scripts/ismap',				'production_bin' ],
+	[ 'scripts/ismap.py',                           'production_bin' ],
         [ 'scripts/profile.pathogen',			'production_etc' ],
         [ 'scripts/cshrc.pathogen',			'production_etc' ],
         [ 'scripts/ena_data_submission.conf',		'production_etc' ],
